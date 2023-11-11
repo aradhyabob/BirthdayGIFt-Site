@@ -35,3 +35,21 @@ h1, h2, h3, h4, p {
     border-radius: 50%;
     border: 6px solid #EFB0C9;
 }
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-img {
+    width: 400px;
+    border: 6px solid #ffffff;
+    border-radius: 10px;
+}
